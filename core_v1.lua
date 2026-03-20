@@ -1,4 +1,3 @@
-
 local p = Instance.new("Part", workspace)
 p.Name = "SuccessPart"
 p.Position = Vector3.new(0, 20, 0)
