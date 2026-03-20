@@ -3,6 +3,8 @@
 local a3 = game:GetService("Players")
 local a4 = game:GetService("RunService")
 
+print("1.5 version")
+
 -- Переменная для хранения оригинального C0 сустава
 local originalC0 = nil
 
